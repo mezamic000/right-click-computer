@@ -1,0 +1,42 @@
+body {
+	background-color: #61bae4;
+}
+
+#name-info {
+	background-color: white;
+}
+
+.nav-menu {
+	background-color: #2b4e86;
+}
+
+.navbar-brand {
+	color: white;
+	font-weight: 500;
+	font-size: 50px;
+	text-shadow: -2px 2px 0 #63a927, 2px 2px 0 #2b4e86, 2px -2px 0 #61bae4,
+		-2px -2px 0 #63a927;
+}
+
+.navbar-text {
+	color: #63a927;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.nav-link {
+	color: #64a927e7;
+	font-weight: 500;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px black, 3px 3px 3px black, 1px 1px 1px black,
+		1px 1px 1px black;
+}
+
+.navbar-toggler {
+	background-color: #63a927;
+	color: white;
+}
+
+.symbols {
+	color: black;
+}
