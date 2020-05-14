@@ -11,17 +11,17 @@ body {
 }
 
 .navbar-brand {
-	color: white;
+	color: rgb(207, 207, 207);
 	font-weight: 500;
 	font-size: 50px;
-	text-shadow: -2px 2px 0 #63a927, 2px 2px 0 #2b4e86, 2px -2px 0 #61bae4,
+	text-shadow: -2px 2px 0 #2b4e86, 2px 2px 0 #64a927e7, 2px -2px 0 #61bae4,
 		-2px -2px 0 #63a927;
 }
 
 .navbar-text {
-	color: #63a927;
+	color: #2b4e86;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 700;
 }
 
 .nav-link {
