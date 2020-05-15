@@ -2,6 +2,10 @@ body {
 	background-color: #61bae4;
 }
 
+.container {
+	margin-top: 25px;
+}
+
 #name-info {
 	background-color: white;
 }
@@ -38,5 +42,44 @@ body {
 }
 
 .symbols {
+	color: black;
+}
+
+.greenBox {
+	background-color: #64a927;
+	padding: 20px 5px 5px 20px;
+	border: 2px dashed #2b4e86;
+	box-shadow: 5px 10px 18px;
+}
+
+.greenBox-text {
+	color: #2b4e86;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.promotion {
+	text-shadow: 1px 2px 2px #61bae4, 1px 1px 1px black;
+}
+
+.alert {
+	background-color: #bceaff;
+	color: #2b4e86;
+	font-weight: 500;
+}
+
+#ser-heading {
+	text-align: center;
+	padding-top: 20px;
+	color: #63a927;
+	text-shadow: 3px 3px 3px #2b4e86;
+}
+
+.card-body {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+#addServ-header {
 	color: black;
 }
